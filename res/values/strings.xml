@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhoneGapAndroidConversion</string>
+    <string name="employeedirectory">Employee Directory</string>
+    <string name="room12">Room12</string>
+
+</resources>
